@@ -1,0 +1,34 @@
+#app {
+  max-width: 2438px;
+  margin: 0 auto;
+  padding: 2vh 2vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 95vh;
+  gap: 80px;
+}
+
+body {
+  background-color: #131313;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #FAFAFA;
+  line-height: 1;
+  cursor: pointer;
+  font: 20px Inter, sans-serif;
+}
+
+h2 {
+  font: 36px Inter, sans-serif;
+  font-weight: 600;
+  line-height: 44px;
+  color: #FFFFFF;
+}
+
+.opacity{
+  opacity: 0.5;
+}

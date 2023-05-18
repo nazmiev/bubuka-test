@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
-    "pages": "vue-tsc && vite build --base=/bubuka-test/ --outDir=docs",
+    "build1": "vue-tsc && vite build",
+    "build": "vue-tsc && vite build --base=/bubuka-test/ --outDir=docs",
     "preview": "vite preview"
   },
   "dependencies": {
